@@ -3,7 +3,7 @@
 - 🚀 Currently learning **C++, Python, and Frontend Development**.
 - 📚 Enthusiastic about ** MySQL, Linux，playwright**.
  
--📫 **Contact Me**
+- 📫 How to reach me:
 - email：1687284281ljc@gmail.com
 
 <!--
