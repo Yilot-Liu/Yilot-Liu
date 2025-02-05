@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I'm Yilot-Liu，a Computer Science Student freshman in CSUFT
+- 🌱 I'm Yilot-Liu，a Computer Science Student in CSUFT
 - 🚀 Currently learning **C++, Python, and Frontend Development**.
 - 📚 Enthusiastic about ** MySQL, Linux，playwright**.
  
