@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🌱 I'm Yilot-Liu，a Computer Science Student freshman in CSUFT
+- 🚀 Currently learning **C++, Python, and Frontend Development**.
+- 📚 Enthusiastic about ** MySQL, Linux，playwright**.
+📫 **Contact Me**
+- email：1687284281ljc@gmail.com
 
 <!--
 **Yilot-Liu/Yilot-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
